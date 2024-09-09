@@ -62,7 +62,17 @@ The LIDAR sensor communicates using the Serial protocol at a baud rate of 115200
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License with additional conditions for commercial use. 
+
+- You are free to use, modify, and distribute the code for personal and academic purposes, provided that proper acknowledgment is given to the author, **Halit Osman Efkere**.
+- For **commercial use**, please contact the author for permission.
+
+Please include a reference to this project and a link to the original repository or author profile when using this code.
+
+For more details, see the [LICENSE.md](LICENSE.md) file.
+
+**Contact for Commercial Use:**
+- **Email:** efkere.h.o@gmail.com
 
 ## Contact
 
